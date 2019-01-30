@@ -71,7 +71,7 @@
      background:#C02B6A;
 }
  .separator.left-align ul li{
-     background:#ff6204;
+     background: #C02B6A;
 }
  .pagination .page-item.active .page-link, .pagination .page-link:hover{
      background:#ff6204 !important;
@@ -132,7 +132,10 @@
      color: #ff6204;
 }
  section#inner-banner .inner-heading .breadcrumb li.breadcrumb-item a {
-     color: #ff6204;
+  color:#fff;
+  /*   background: linear-gradient(to right, #2dd3aa 0%, #592A56 8%, #C02B6A 92%);
+     -webkit-background-clip:text;
+     color:transparent;*/
 }
  section#qualities .column .icon i::before{
      color: #ff6204;

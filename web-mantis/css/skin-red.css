@@ -141,17 +141,17 @@
      color: #ff6204;
 }
  section#pricing .price_amount strong{
-     color: #ff6204;
+     color: #592A56;
 }
  section#pricing .purchase a.purchase_now:hover{
-     background: #ff6204;
+     background: #868181;
      color: #fff;
 }
  section#pricing .ultimate{
-     background: #ff6204 !important;
+     background: #592A56 !important;
      -webkit-box-shadow: 0px 5px 32px -7px rgba(255,98,4,0.78);
      -moz-box-shadow: 0px 5px 32px -7px rgba(255,98,4,0.78);
-     box-shadow: 0px 5px 32px -7px rgba(255,98,4,0.78);
+     box-shadow: 0px 5px 32px -7px rgba(59, 46, 39, 0.8);
 }
  section#pricing .ultimate .purchase a.purchase_now{
      color: #ff6204;
@@ -297,7 +297,7 @@
      color:#592A56 !important;
 }
  footer .bottom {
-     background-color:#592A56;
+     background:linear-gradient(to right, #592A56 0%, #C02B6A 100%, #2dd3aa 100%, #2dd3aa 100%);
 }
  section#qualities{
      background-color:#592A56;
@@ -338,7 +338,7 @@
      color: #ff6204;
 }
  section#pricing .ultimate .features ul li{
-     border-bottom: solid 1px #ff8d49;
+     border-bottom: solid 1px #fff;
 }
  .header-top.contact_info {
          background: linear-gradient(to right, #592A56 0%, #C02B6A 100%, #2dd3aa 100%, #2dd3aa 100%);
@@ -355,7 +355,7 @@
      color: #fff;
 }
  section#pricing .ultimate .purchase a.purchase_now, section#pricing .ultimate .purchase a:hover.purchase_now{
-     color: #ff6204;
+     color: #0c0c0c;
 }
  header .hamburger-inner, header .hamburger-inner::before, header .hamburger-inner::after {
      background-color: #ff6204;

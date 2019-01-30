@@ -2900,7 +2900,7 @@
 /****---- Homepage 3 Start ----****/
 /****---- About Us ----****/
  section#inner-banner {
-     background:url(../img/inner-banner.jpg) no-repeat fixed 50% center;
+     background:url(../img/banner.png) no-repeat fixed 50% center;
      margin: 0 auto;
      background-size:cover;
 }
@@ -3149,7 +3149,7 @@
      color:#262626;
 }
  section#pricing .features ul li.deactive{
-     color:#bebebe;
+     color:#000;
 }
  section#pricing .features ul li:last-child{
      border-bottom:none;
@@ -3160,7 +3160,7 @@
 }
  section#pricing .purchase a.purchase_now{
      padding: 10px 25px;
-     background:#262626;
+     background:#592A56;
      color:#fff;
      font-size: 14px;
      display: inline-block;

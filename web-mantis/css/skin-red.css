@@ -43,20 +43,20 @@
      margin: 5px 0 
  }
  section#portfolio .sort-btn.active, section#portfolio .sort-btn:hover{
-     background:#ff6204 !important;
+     background:#C02B6A  !important;
 }
  section#testimonials .testimonials-slider .item .client_detail .name_designation h5{
-     color:#ff6204;
+     color:#C02B6A;
 }
  .owl-carousel .owl-nav .owl-next::before {
      color:#ff6204;
 }
  .owl-carousel .owl-nav .owl-prev::before {
-     color:#ff6204;
+     color:#C02B6A;
 }
  .owl-carousel .owl-nav .owl-prev:hover, .owl-carousel .owl-nav .owl-next:hover{
-     background:#ff6204 !important;
-     border-color:#ff6204;
+     background:#C02B6A  !important;
+     border-color:#C02B6A ;
 }
  .section_heading h2 span{
      color:#ff6204;
@@ -81,7 +81,7 @@
      color: #ff6204;
 }
  .post-detail .post-status ul li i::before{
-     color: #ff6204;
+     color: #C02B6A;
 }
  .post-detail .description a{
      color: #ff6204;
@@ -110,7 +110,7 @@
      font-weight: 500;
 }
  .project .label-bg {
-     background: #ff6204;
+     background: #C02B6A;
 }
  .blog_card .post-detail .posted_by a{
      color:#ff6204;
@@ -120,7 +120,7 @@
      color: #ff6204;
 }
  footer .contact_info i{
-     color:#ff6204;
+     color:#C02B6A ;
 }
  footer .newsletter h4{
      color:#ff6204;
@@ -228,10 +228,10 @@
      color: #ff6204;
 }
  .project .zoom{
-     background: rgba(255, 98, 4, 0.9);
+     background: rgba(193, 43, 106, 0.9);
 }
  .blog_card .post-img .posted_on {
-     background: rgba(255, 98, 4, 0.9);
+     background: rgba(192, 43, 106 , 0.9);
 }
  section#single-post-detail .blog-detail .post-detail .about-post .special-quote{
      background:#ffece1;
@@ -335,7 +335,7 @@
      box-shadow: 0px 15px 32px -14px rgba(192,43,106,1);
 }
  section#quick-connect .newsletter{
-     background:url('../img/newsletter-icon.png') no-repeat center center, #ff6204;
+     background:url('../img/newsletter-icon.png') no-repeat center center, #C02B6A;
 }
  section#quick-connect .quick-info .content .sub-heading{
      color: #ff6204;
@@ -364,14 +364,14 @@
      background-color: #ff6204;
 }
  footer.index-2 .content{
-     color: #ff6204;
+     color: #C02B6A ;
 }
  footer.index-2 .contact-form form button:hover[type="submit"]{
-     background:#ff6204;
+     background:#C02B6A ;
      color:#fff;
      transition: all 0.5s ease;
 }
  section#blog_post.index-2 .post-detail .description a.view_more:hover {
-     background-color:#ff6204;
-     border-color:#ff6204;
+     background-color:#C02B6A ;
+     border-color:#C02B6A ;
 }

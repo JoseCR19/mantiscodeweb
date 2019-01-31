@@ -4,7 +4,7 @@
      color:#529e19;
 }
  a.view_more:hover{
-     background: #529e19;
+     background: #C02B6A;
 }
  form .form-group button[type="submit"]{
      background: #529e19;
@@ -130,16 +130,16 @@
      color:#C02B6A;
 }
  footer .newsletter h4{
-     color:#529e19;
+     color:#C02B6A;
 }
  footer .newsletter form button[type="submit"]{
-     background:#529e19;
+     background:#C02B6A;
 }
  footer .copyright a:hover{
      color: #529e19;
 }
  section#inner-banner .inner-heading .breadcrumb li.breadcrumb-item a {
-     color: #529e19;
+     color: #fff;
 }
  section#qualities .column .icon i::before{
      color: #529e19;
@@ -280,3 +280,4 @@ section#blog-post-list .post-detail .description a:hover, section#blog-with-side
      background-color:#529e19;
      border-color:#529e19;
 }
+

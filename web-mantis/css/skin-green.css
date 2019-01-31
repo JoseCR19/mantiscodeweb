@@ -10,18 +10,27 @@
      background: #529e19;
 }
  .navbar-nav .nav-item.active a{
-     color:#529e19;
+     color:#592A56;
 }
  .navbar-nav .nav-item.active a.dropdown-toggle::after{
-     color:#529e19;
+     color:#262626;;
 }
  .header-transparent .nav-item.dropdown.active a{
      color:#529e19;
 }
  .dropdown-item a:hover{
-     background-color: #529e19;
+     background-color: #592A56;
      color:#fff;
 }
+
+/*-------------------*/
+
+.header-top.contact_info {
+
+    background: linear-gradient(to right, #592A56 0%, #C02B6A 100%, #2dd3aa 100%, #2dd3aa 100%);
+
+}
+/*---------------------*/
  .navbar-toggler-icon {
      display: block;
      width:25px;
@@ -37,7 +46,8 @@
      background:#529e19;
 }
  section#portfolio .sort-btn.active, section#portfolio .sort-btn:hover {
-     background:#529e19;
+         background: linear-gradient(to right, #592A56 0%, #C02B6A 100%, #2dd3aa 100%, #2dd3aa 100%);
+
 }
  section#testimonials .testimonials-slider .item .client_detail .name_designation h5{
      color:#529e19;
@@ -107,7 +117,7 @@
      font-weight: 500;
 }
  .project .label-bg {
-     background: #529e19;
+     background: #C02B6A;
 }
  .blog_card .post-detail .posted_by a{
      color:#529e19;
@@ -178,7 +188,7 @@
  section#member .overlay, section#services-counter .overlay, section#counter .overlay{
      width:100%;
      height:100%;
-     background: rgba(82, 158, 25, 0.8);
+     background: rgba(192, 43, 106, 0.8);
      display:block;
      position:absolute;
      z-index:0;
@@ -228,7 +238,7 @@ section#blog-post-list .post-detail .description a:hover, section#blog-with-side
      font-weight:600;
 }
  .project .zoom{
-     background: rgba(82, 158, 25, 0.9);
+     background: rgba(192, 43, 106, 0.9);
 }
  .blog_card .post-img .posted_on {
      background: rgba(82, 158, 25, 0.9);

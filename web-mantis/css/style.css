@@ -3118,6 +3118,7 @@
      text-align: center;
      padding:30px 0px 40px;
      border: solid 1px #eeeeee;
+     background-image: url(../img/fondoprecio.png);
 }
  section#pricing .plan-title{
      margin-bottom:10px;
@@ -4295,3 +4296,6 @@
     transform: rotate(360deg);
   }
 }
+
+/*----- prueba con price_card*/
+

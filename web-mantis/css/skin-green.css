@@ -256,7 +256,9 @@ section#blog-post-list .post-detail .description a:hover, section#blog-with-side
      color:#C02B6A ;
 }
  section#contact-us .form-header{
-     background: #C02B6A ;
+     background: linear-gradient(to right, #592A56 0%, #C02B6A 100%, #2dd3aa 100%, #2dd3aa 100%);
+
+}
 }
  section#faq #accordion button.btn-link span{
      color:#529e19;

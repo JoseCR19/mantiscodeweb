@@ -7,7 +7,7 @@
      background: #C02B6A;
 }
  form .form-group button[type="submit"]{
-     background: #529e19;
+     background: #C02B6A ;
 }
  .navbar-nav .nav-item.active a{
      color:#592A56;
@@ -253,10 +253,10 @@ section#blog-post-list .post-detail .description a:hover, section#blog-with-side
      color: #529e19;
 }
  section#contact-us .info ul li .icon i:before{
-     color:#529e19;
+     color:#C02B6A ;
 }
  section#contact-us .form-header{
-     background:#529e19;
+     background: #C02B6A ;
 }
  section#faq #accordion button.btn-link span{
      color:#529e19;

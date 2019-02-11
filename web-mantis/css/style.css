@@ -4270,7 +4270,7 @@
  /**-----------*/
  .preloader1 {
   position: fixed;
-  background-image: url(../img/mantinscodev-Recuperado.png);
+  background-image: url(../img/prueba2.png);
   width: 300px;
   height: 300px;
   border: 30px solid #592A56;
@@ -4280,7 +4280,8 @@
   animation-duration: 2s;
   animation-iteration-count: infinite;
   animation-timing-function: linear;
-   
+
+  
      /*top: 0;
      left: 0;
      width: 100%;
@@ -4291,6 +4292,7 @@
 @keyframes girar {
   from {
     transform: rotate(0deg);
+
   }
   to {
     transform: rotate(360deg);

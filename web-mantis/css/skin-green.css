@@ -46,7 +46,7 @@
      background:#529e19;
 }
  section#portfolio .sort-btn.active, section#portfolio .sort-btn:hover {
-         background: linear-gradient(to right, #592A56 0%, #C02B6A 100%, #2dd3aa 100%, #2dd3aa 100%);
+         background: linear-gradient(to bottom right, #592A56 0%, #C02B6A 100%, #2dd3aa 100%, #2dd3aa 100%);
 
 }
  section#testimonials .testimonials-slider .item .client_detail .name_designation h5{
@@ -256,7 +256,8 @@ section#blog-post-list .post-detail .description a:hover, section#blog-with-side
      color:#C02B6A ;
 }
  section#contact-us .form-header{
-     background: linear-gradient(to right, #592A56 0%, #C02B6A 100%, #2dd3aa 100%, #2dd3aa 100%);
+     background: linear-gradient(to top, #592A56 0%, #C02B6A 100%, #2dd3aa 100%, #2dd3aa 100%);
+     
 
 }
 }

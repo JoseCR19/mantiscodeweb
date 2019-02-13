@@ -43,7 +43,7 @@
      margin: 5px 0 
  }
  section#portfolio .sort-btn.active, section#portfolio .sort-btn:hover{
-     background:#C02B6A  !important;
+     background: linear-gradient(to bottom right, #592A56 0%, #C02B6A 100%, #2dd3aa 100%, #2dd3aa 100%) !important;
 }
  section#testimonials .testimonials-slider .item .client_detail .name_designation h5{
      color:#C02B6A;
@@ -141,7 +141,7 @@
      color: #592A56 ;
 }
  section#about-detail .section_heading h4 span{
-     color: #ff6204;
+     color: #00000080;
 }
  section#pricing .price_amount strong{
      color: #592A56;
@@ -325,7 +325,7 @@
      transform: scale(1.15);
      -webkit-box-shadow: 0px 10px 32px -14px rgba(173,173,173,1);
      -moz-box-shadow: 0px 10px 32px -14px rgba(173,173,173,1);
-     box-shadow: 0px 10px 32px -14px rgba(173,173,173,1);
+      box-shadow: 0px 15px 32px -14px rgba(192,43,106,1);
 }
  section#services .item:hover .service-card {
      border:#592A56  !important;

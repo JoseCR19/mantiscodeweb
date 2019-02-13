@@ -328,7 +328,7 @@
      box-shadow: 0px 10px 32px -14px rgba(173,173,173,1);
 }
  section#services .item:hover .service-card {
-     border:#ff6204 !important;
+     border:#592A56  !important;
      background:linear-gradient(to top, #592A56 8%, #C02B6A 92%) !important;
      -webkit-box-shadow: 0px 15px 32px -14px rgba(255,98,4,1);
      -moz-box-shadow: 0px 15px 32px -14px rgba(255,197,4,1);

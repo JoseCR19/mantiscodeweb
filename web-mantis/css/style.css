@@ -258,7 +258,7 @@
 }
  .owl-main .item::after{
      content:'';
-     background: -moz-linear-gradient(top, rgba(255,98,5,0.5) 0%, rgba(75,85,220,0.5) 100%);
+     background: -moz-linear-gradient(left, rgba(255,98,5,0.5) 0%, rgba(75,85,220,0.5) 100%);
      background: -webkit-linear-gradient(top, rgba(255,98,5,0.5) 0%,rgba(75,85,220,0.5) 100%);
      background: linear-gradient(to bottom, rgba(255,98,5,0.5) 0%,rgba(75,85,220,0.5) 100%);
      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#80ff6205', endColorstr='#804b55dc',GradientType=0 );

@@ -859,7 +859,7 @@
      color: #262626;
      padding:10px 25px;
      border:none;
-     border-radius:0px;
+     border-radius: 10px;
      margin:0px 5px;
      display:inline-block;
 }
@@ -4120,7 +4120,8 @@ section#blog_post .post-detail .description a.view_more2:hover {
  section#contact-us .info ul li .icon{
      width: 50px;
      height: 50px;
-     border:solid 1px #e6e6e6;
+     border:solid 1px  #C02B6A;
+     border-radius: 15px;
      float: left;
      margin-right: 20px;
      text-align: center;
@@ -4167,6 +4168,7 @@ section#blog_post .post-detail .description a.view_more2:hover {
  section#contact-us .contact-form{
      padding:30px;
      border:solid 1px #e6e6e6;
+     border-radius: 10px;
 }
  section#contact-us .contact-form textarea {
      height:220px;

@@ -375,3 +375,20 @@
      background-color:#C02B6A ;
      border-color:#C02B6A ;
 }
+
+/*----Estilo de botonoes --*/
+ section#blog_post.index-2 .post-detail .description a.view_more1:hover {
+     background-color:#00C5EE ;
+     border-color:#00C5EE ;
+}
+
+
+ section#blog_post.index-2 .post-detail .description a.view_more2:hover {
+     background-color:#592A56 ;
+     border-color:#592A56 ;
+}
+
+ section#blog_post.index-2 .post-detail .description a.view_more3:hover {
+     background-color: #C02B6A  ;
+     border-color: #C02B6A ;
+}

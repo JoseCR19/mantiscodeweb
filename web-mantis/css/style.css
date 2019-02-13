@@ -1608,7 +1608,7 @@
      z-index:999;
      border-radius:400px 0 0 400px;
      right:0px;
-     background:url(../img/success.jpg) no-repeat 100% center;
+     background:url(../img/tecnologia.jpg) no-repeat left;
      background-size: auto auto;
      position: absolute;
 }
@@ -1726,6 +1726,34 @@
      border:solid 1px #e0e0e0;
      color:#262626;
 }
+
+/*--PRUEBA-- */
+section#blog_post.index-2 .post-detail .description a.view_more1{
+     font-size: 14px;
+     padding:7px 15px;
+     background:none;
+     border:solid 1px #e0e0e0;
+     color:#262626;
+     border-radius: 20px;
+     display: inline-block;
+     margin-top: 10px;
+}
+
+section#blog_post.index-2 .post-detail .description a.view_more2{
+     font-size: 14px;
+     padding:7px 15px;
+     background:none;
+     border:solid 1px #e0e0e0;
+     color:#262626;
+     border-radius: 20px;
+     display: inline-block;
+     margin-top: 10px;
+}
+section#blog_post .post-detail .description a.view_more2:hover {
+     color:#fff;
+}
+/*-----*/
+
  section#blog_post .post-detail .description a.view_more:hover {
      color:#fff;
 }
